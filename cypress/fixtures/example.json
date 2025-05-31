@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "qwerty123",
+    "question": "What is the capital of Canada",
+    "answers": ["Ottawa", "D.C.", "Ontario"]
+  },
+  {
+    "_id": "qwerty456",
+    "question": "What is the capital of The U.S.",
+    "answers": ["Washington D.C.", "Wyoming", "San Francisco"]
+  },
+  {
+    "_id": "qwerty789",
+    "question": "What is the capital of Mexico",
+    "answers": ["Mexico City", "Monterrey", "Victoria"]
+  }
+]
