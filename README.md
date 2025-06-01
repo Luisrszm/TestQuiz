@@ -1,8 +1,8 @@
-# SNAPI | Social Network API 🪩
+# FasTest | The fastes app test in the west 🤠
 
 ## Description
 
-With this API, social media platforms can seamlessly manage user-generated content, real-time interactions, and complex data relationships without compromising on performance or scalability. Whether you're dealing with posts, comments, likes, or connections, this API ensures reliability and flexibility for your growing user base.
+This project emphasizes the crucial role of **testing** in modern web application development. In today's fast-paced and dynamic software landscape, ensuring the **reliability** and **robustness** of applications is paramount. Comprehensive testing is not merely an afterthought—it's an integral part of the development process that guarantees applications meet user demands and maintain efficient performance under a wide range of conditions.
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@ With this API, social media platforms can seamlessly manage user-generated conte
 - mongoDB
 - express
 - mongoose
+- cypress
 
 For installation refer to their official documentation however in this instance no installation is required.
 
@@ -30,7 +31,7 @@ No test required.
 
 ## Usage
 
-Follow [this link](https://app.screencastify.com/v2/watch/i29uQrvcAswWAcyeUVqt) to try out the site.
+Follow [this link](https://app.screencastify.com/v2/watch/87Uw11jPflNNcNBnLKRi) to watch a demo of the project.
 
 ## License
 
