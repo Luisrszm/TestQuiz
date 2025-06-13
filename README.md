@@ -31,7 +31,7 @@ No test required.
 
 ## Usage
 
-Follow [this link](https://app.screencastify.com/v2/watch/87Uw11jPflNNcNBnLKRi) to watch a demo of the project.
+Follow [this link](https://drive.google.com/file/d/1Y-_V5uyq37AQTii8IpmON0ng3Sex55U6/view?usp=sharing) to watch a demo of the project.
 
 ## License
 
